@@ -4,7 +4,7 @@ This repository contains a MATLAB demo that demonstrates the basic principles of
 
 The main script `audio_coder_demo.m` calls all successive steps on an example file and produces the decoded output wave. Original and decoded wave files can be found in './data'.
 
-An example masking threshold for the MDCT coefficients for one frame looks like this:
+An example masking threshold for one spectral frame looks like this:
 ![alt text](https://github.com/mleimeister/AudioCoding/blob/master/images/masking.png "")
 
 Example of original and decoded waveforms:
